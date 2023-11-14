@@ -24,7 +24,7 @@ namespace Tyuiu.LomakinVI.Sprint4.TaskReview.V29
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Обработка структурных типов                                       *");
             Console.WriteLine("* Задание SprintReview                                                    *");
-            Console.WriteLine("* Вариант 15                                                              *");
+            Console.WriteLine("* Вариант 29                                                              *");
             Console.WriteLine("* Выполнил: Ломакин Владислав Игоревич | ИИПб-23-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
